@@ -1,0 +1,9 @@
+{
+  "proveedor": "aws",
+  "parametros": {
+    "instanceType": "t2.micro",
+    "region": "us-east-1",
+    "vpcId": "vpc-123",
+    "ami": "ami-abc"
+  }
+}
